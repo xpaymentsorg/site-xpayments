@@ -1,2 +1,2 @@
-# page-xpayments
-Official page of xPayments community.
+# site-xpayments
+Official site of xPayments community.
